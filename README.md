@@ -43,4 +43,4 @@ It serves as a reminder of what I am capable of achieving through hard work and 
 ---
 
 ## 🌍 Live Project
-If hosted, you can access it here:
+ you can access it here: https://sechabalaptoptracker.great-site.net/?i=1
