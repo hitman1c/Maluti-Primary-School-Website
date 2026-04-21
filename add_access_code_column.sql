@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD COLUMN access_code VARCHAR(4) NOT NULL;
